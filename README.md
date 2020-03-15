@@ -1,4 +1,6 @@
-# Iran Coronavirus
+# Iran Coronavirus 
+
+[![APK](https://img.shields.io/badge/APK-Demo-brightgreen.svg)](https://github.com/soroushchehresa/iran-coronavirus/releases/download/v0.0.3/app-armeabi-v7a-release.apk)
 
 A simple cross-platform application about **Coronavirus** in Iran.
 
